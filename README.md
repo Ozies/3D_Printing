@@ -1,5 +1,5 @@
 # 3D Printing
-3D Printer Klipper configs and Cura profiles
+3D Printer Klipper configs and Cura profiles.
 
 Modified Ender 3 Pro:
 - Raspberry Pi 3 B+

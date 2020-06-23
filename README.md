@@ -7,7 +7,7 @@
  * BL Touch
  * TMC 2208 Stepper Drivers
  * E3D V6 Hot End
- * Filafarm FliaPrint bed
+ * [Filafarm FliaPrint](https://www.filafarm.de/collections/druckbetten/products/druckplatte-fur-abs-und-pla?variant=8120480956527#) bed
  * Capricorn Tube
 
 ### Cura Profiles:

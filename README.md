@@ -8,6 +8,7 @@
  * TMC 2208 Stepper Drivers
  * E3D V6 Hot End
  * Filafarm FliaPrint bed
+ * Capricorn Tube
 
 ### Cura Profiles:
 Cura profiles are based on [CHEP's profiles](https://www.chepclub.com/cura-profiles.html)

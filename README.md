@@ -9,5 +9,5 @@
  * E3D V6 Hot End
  * Filafarm FliaPrint bed
 
-
-Cura profiles based on [CHEP's profiles](https://www.chepclub.com/cura-profiles.html)
+### Cura Profiles
+Cura profiles are based on [CHEP's profiles](https://www.chepclub.com/cura-profiles.html)

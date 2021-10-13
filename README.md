@@ -17,5 +17,5 @@
  * [Filafarm FliaPrint](https://www.filafarm.de/collections/druckbetten/products/druckplatte-fur-abs-und-pla?variant=8120480956527#) bed
  * Capricorn Tube
 
-### Ender 3 Precision:
+### Ender 3 Pro (Precision):
  * TBA

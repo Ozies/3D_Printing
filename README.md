@@ -2,7 +2,6 @@
 ## Klipper, Moonraker, KlipperScreen & Fluidd configs
 
 ### Modified Ender 3 Pro:
- * Raspberry Pi 3 B+
  * SKR 2.0 main board
  * BL Touch
  * TMC 2209 Stepper Drivers

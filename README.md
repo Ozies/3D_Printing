@@ -13,7 +13,7 @@
  * SKR 2.0 main board
  * BL Touch v3.1
  * TMC 2209 Stepper Drivers
- * Micro Swiss Hot End
+ * Micro Swiss Direct Drive Hot End
  * [Filafarm FliaPrint](https://www.filafarm.de/collections/druckbetten/products/druckplatte-fur-abs-und-pla?variant=8120480956527#) bed
  * Capricorn Tube
 
